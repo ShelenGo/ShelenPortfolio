@@ -32,14 +32,17 @@ import {
     {
       id: "home",
       title: "Home",
+      to: "/home",
     },
     {
       id: "project",
       title: "Projects",
+      to: "/project",
     },
     {
       id: "contact",
       title: "Contact",
+      to: "/contact",
     },
   ];
   
