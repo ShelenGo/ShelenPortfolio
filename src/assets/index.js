@@ -23,6 +23,23 @@ import selenium from "./tech/Selenium.png";
 import java from "./tech/Java.png";
 import postman from "./tech/postman.png";
 import mysql from "./tech/mysql.png";
+import aws from "./tech/aws.png";
+import C_logo from "./tech/C_logo.png";
+import C_sharp from "./tech/C_sharp.png";
+import cpp_logo from "./tech/cpp_logo.png";
+import dotnet from "./tech/dotnet.png";
+import kubernetes from "./tech/kubernetes.png";
+import laravel from "./tech/laravel.png";
+import linux from "./tech/linux.png";
+import nextjs from "./tech/nextjs.png";
+import php from "./tech/php.png";
+import postgresql from "./tech/postgresql.png";
+import scikit_learn from "./tech/scikit_learn.png";
+import springboot from "./tech/springboot.png";
+import sql_server from "./tech/sql_server.svg";
+import tensorflow from "./tech/tensorflow.png";
+import vuejs from "./tech/vuejs.png";
+import django from "./tech/django.png";
 
 import ResiCo from "./ResiCo.png";
 import Sure from "./Sure.png";
@@ -40,6 +57,7 @@ export {
   css,
   docker,
   figma,
+  django,
   git,
   html,
   javascript,
@@ -50,6 +68,22 @@ export {
   java,
   python,
   mysql,
+  aws,
+  C_logo,
+  C_sharp,
+  cpp_logo,
+  dotnet,
+  kubernetes,
+  laravel,
+  linux,
+  nextjs,
+  php,
+  postgresql,
+  scikit_learn,
+  springboot,
+  sql_server,
+  tensorflow,
+  vuejs,
   postman,
   selenium,
   jest,

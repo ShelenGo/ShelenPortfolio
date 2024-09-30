@@ -15,8 +15,8 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop user interfaces, web applications <br className='sm:block hidden' />and mobile applications
           </p>
-          <p className='mt-2 text-secondary text-[17px] max-w-3xl leading-[30px]'> I'm a penultimate Computer Science student at SUTD specializing in Sodtware Engineering and FinTech with Minor in AI. &nbsp; 
-          <span>I'm passionate about crafting innovative solutions, from full-stack web applications to machine learning projects.</span></p>
+          <p className='mt-2 text-secondary text-[17px] max-w-3xl leading-[30px]'> I'm a final year Computer Science student at SUTD specializing in Sodtware Engineering and FinTech. &nbsp; 
+          <span>As a final-year Computer Science student with extensive experience in web and mobile application development, I am passionate about building user-centric solutions that address real-world challenges. At Hyundai Motor Group Innovation Center Singapore (HMGICS), I developed web applications using Spring Boot, Vue.js, and .NET (C#), gaining valuable hands-on experience in delivering scalable solutions. At Skyworks, I created a full-stack mobile application utilizing Node.js, React.js, and Microsoft SQL Server. Currently, I’m working on a personal project—a mobile app designed to monitor elderly falls—demonstrating my commitment to impactful, purpose-driven technology. I also have experience optimizing workflows by automating data processes with Python and Bash, significantly boosting efficiency.</span></p>
         </div>
       </div>
 

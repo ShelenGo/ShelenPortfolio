@@ -5,6 +5,7 @@ import {
     css,
     reactjs,
     redux,
+    django,
     tailwind,
     nodejs,
     mongodb,
@@ -14,6 +15,22 @@ import {
     python,
     java,
     mysql,
+    kubernetes,
+    laravel,
+    linux,
+    dotnet,
+    C_logo,
+    C_sharp,
+    cpp_logo,
+    sql_server,
+    php,
+    postgresql,
+    nextjs,
+    scikit_learn,
+    springboot,
+    tensorflow,
+    vuejs,
+    aws,
     express,
     postman,
     selenium,
@@ -51,13 +68,57 @@ import {
       name: "Python",
       icon: python,
     },
-    // {
-    //   name: "Django",
-    //   // icon: html,
-    // },
+    {
+      name: "Django",
+      icon: django,
+    },
     {
       name: "Java",
       icon: java,
+    },
+    {
+      name: "Spring Boot",
+      icon: springboot,
+    },
+    {
+      name: "C",
+      icon: C_logo,
+    },
+    {
+      name: "C++",
+      icon: cpp_logo,
+    },
+    {
+      name: "C#",
+      icon: C_sharp,
+    },
+    {
+      name: ".Net Framework",
+      icon: dotnet,
+    },
+    // {
+    //   name: "PHP",
+    //   icon: php,
+    // },
+    // {
+    //   name: "Laravel",
+    //   icon: laravel,
+    // },
+    {
+      name: "Docker",
+      icon: docker,
+    },
+    {
+      name: "Kubernetes",
+      icon: kubernetes,
+    },
+    {
+      name: "AWS",
+      icon: aws,
+    },
+    {
+      name: "Linux",
+      icon: linux,
     },
     {
       name: "HTML 5",
@@ -71,13 +132,17 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    // {
-    //   name: "TypeScript",
-    //   icon: typescript,
-    // },
+    {
+      name: "TypeScript",
+      icon: typescript,
+    },
     {
       name: "React JS",
       icon: reactjs,
+    },
+    {
+      name: "Vue JS",
+      icon: vuejs,
     },
     // {
     //   name: "Redux Toolkit",
@@ -96,12 +161,24 @@ import {
       icon: express,
     },
     {
+      name: "Next JS",
+      icon: nextjs,
+    },
+    {
       name: "MongoDB",
       icon: mongodb,
     },
     {
       name: "MySQL",
       icon: mysql,
+    },
+    {
+      name: "Ms SQL Server",
+      icon: sql_server,
+    },
+    {
+      name: "PostgreSQL",
+      icon: postgresql,
     },
     // {
     //   name: "Firebase",
@@ -110,6 +187,14 @@ import {
     {
       name: "Three JS",
       icon: threejs,
+    },
+    {
+      name: "Tensorflow",
+      icon: tensorflow,
+    },
+    {
+      name: "Scikit-learn",
+      icon: scikit_learn,
     },
     {
       name: "Git",
