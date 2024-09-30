@@ -20,7 +20,7 @@ import jest from "./tech/Jest.png";
 import python from "./tech/python.png";
 import firebase from "./tech/firebase.png";
 import selenium from "./tech/Selenium.png";
-import java from "./tech/Java.png";
+import java from "./tech/java.png";
 import postman from "./tech/postman.png";
 import mysql from "./tech/mysql.png";
 import aws from "./tech/aws.png";
