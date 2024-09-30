@@ -24,7 +24,7 @@ import java from "./tech/java.png";
 import postman from "./tech/postman.png";
 import mysql from "./tech/mysql.png";
 import aws from "./tech/aws.png";
-import C_logo from "./tech/C_logo.png";
+import C_logo from "./tech/C_Logo.png";
 import C_sharp from "./tech/C_sharp.png";
 import cpp_logo from "./tech/cpp_logo.png";
 import dotnet from "./tech/dotnet.png";
