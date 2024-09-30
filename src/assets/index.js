@@ -43,7 +43,7 @@ import django from "./tech/django.png";
 
 import ResiCo from "./ResiCo.png";
 import Sure from "./Sure.png";
-import ML from "./ML.jpg";
+import ML from "./ml.jpg";
 
 import investiture from "./ccas/investiture.jpeg";
 import designOdessey from "./ccas/do.jpeg";
